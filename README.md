@@ -1,4 +1,4 @@
-# myapp
+# RecoverWell
 
 A new Flutter project.
 
